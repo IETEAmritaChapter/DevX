@@ -1,4 +1,4 @@
-# 🚀 Problem Statements for the CODEX: CODE. CREATE. CONQUER. web dev challenge event! 🎉  
+# 🚀 Problem Statements for the DevX: CODE. CREATE. CONQUER. web dev challenge event! 🎉  
 
 
 
@@ -31,6 +31,4 @@ Make typing an **immersive and dynamic** experience! Whether it's a game, intera
 
 ---
 
-
-
-Made by IETE Web Dev Team ❤️!  
+_Made with 💖 by IETE Web and App Dev Vertical!_
