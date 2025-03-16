@@ -1,12 +1,12 @@
-# 🚀 DEVX: CODE. CREATE. CONQUER – Official Repository
+# 🚀 DEVX: CODE. CREATE. CONQUER. – Official Repository
 
-Welcome to the **DEVX: CODE. CREATE. CONQUER - Web Dev Challenge**, a dynamic coding challenge event organized by **IETE Amrita Club**! This challenge is designed to push your web development skills to the next level, fostering creativity and technical excellence. Get ready to code, deploy, and showcase your project! 💻🔥
+Welcome to the **DEVX: CODE. CREATE. CONQUER. - Web Dev Challenge**, a dynamic coding challenge event organized by **IETE Amrita Club**! This challenge is designed to push your web development skills to the next level, fostering creativity and technical excellence. Get ready to code, deploy, and showcase your project! 💻🔥
 
-![WhatsApp Image 2025-03-13 at 21 29 10_47d3f33d](https://github.com/user-attachments/assets/41e37bc1-3479-4462-84f1-7dc2e81ee4f9)
+<img src="https://github.com/user-attachments/assets/973019b7-d12f-417d-8eb5-f62874a2f243" width="500" height="600">
 
 ## 📅 Event Details  
 
-- 👥 **Team Size**: 3-4 Members  
+- 👥 **Team Size**: 2-4 Members  
 - 📆 **Date**: 18th March 2025  
 - ⏰ **Time**: 2PM - 6PM  
 - 📍 **Venue**: Seminar Hall (Near Anugraha Hall), AB3  
@@ -43,13 +43,11 @@ This repository serves as your central hub for the challenge. Here’s what you�
 
 ---
 
-# 🏆 Web Dev Challenge – Evaluation Criteria & Weightage
+## 🏆 Challenge Evaluation Criteria & Weightage
 
 Your project will be evaluated based on the following criteria, ensuring fairness and recognition of creativity, functionality, and quality. 🚀✨
 
----
-
-## 📊 Evaluation Breakdown
+### 📊 Evaluation Breakdown
 
 ### 🎨 UI/UX & Frontend Design Quality – 35%
 - Aesthetic appeal, layout, and responsiveness.
@@ -73,6 +71,19 @@ Your project will be evaluated based on the following criteria, ensuring fairnes
 
 ---
 
+# Submission & Feedback Links
+
+### 📌 Submission Link  
+🔗[Submit Here](https://forms.office.com/r/mZnUGt7fQ4)  
+
+### 📝 Feedback Link  
+🔗[Provide Feedback](https://forms.office.com/r/TuF2ipSkHQ)  
+
+- Click on the respective links to submit your work or share your valuable feedback.  
+- Ensure that you have completed all necessary steps before submission.  
+- Your feedback is highly appreciated and helps us improve! 🚀  
+
+---
 ## 📢 Stay Connected!
 🌐 **Website:** [IETE Amrita Club](https://avvsf.ietecbe.org/)
 
