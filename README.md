@@ -22,24 +22,24 @@ This repository serves as your central hub for the challenge. Here’s what you�
 ---
 
 ## 🎯 Rules & Guidelines
-✅ **Tech Stack:** Use any framework or library of your choice and interest, but **no-code tools (e.g., Wix, Webflow) are NOT allowed**.
-✅ **Frontend Deployment:** Your project **must** be deployed using platforms like **Netlify, Vercel, or GitHub Pages**.
-✅ **Backend (Optional):** If you use a backend, provide proper **setup instructions** in the README. You can either run your backend locally or host it online. But proper setup instructions must be provided.
-🤝 If you face any issues or need help during the event, feel free to reach out to the volunteers.
-🤖 Use of AI tools is allowed, but evaluation will focus on the originality, thoughtfulness, and meaningful implementation of the problem statement 
-✅ **GitHub Submission:** Code **must** be pushed to a public GitHub repository.
-✅ **Submission Requirements:**
+- ✅ **Tech Stack:** Use any framework or library of your choice and interest, but **no-code tools (e.g., Wix, Webflow) are NOT allowed**.
+- ✅ **Frontend Deployment:** Your project **must** be deployed using platforms like **Netlify, Vercel, or GitHub Pages**.
+- ✅ **Backend (Optional):** If you use a backend, provide proper **setup instructions** in the README. You can either run your backend locally or host it online. But proper setup instructions must be provided
+- 🤝 If you face any issues or need help during the event, feel free to reach out to the volunteers.
+- 🤖 Use of AI tools is allowed, but evaluation will focus on the originality, thoughtfulness, and meaningful implementation of the problem statement
+- ✅ **GitHub Submission:** Code **must** be pushed to a public GitHub repository.
+- ✅ **Submission Requirements:**
    - Repository Link 📎
    - Deployment Link 🌍
-✅ **Team Presence:** Only teams who attend the entire event and submit **on time (before 6PM)** will be **eligible for evaluation & OD certificates**.
-📁 **README File (Highly Recommended)** 📑 – Your repo should include the following for our ease of evaluation:
+- ✅ **Team Presence:** Only teams who attend the entire event and submit **on time (before 6PM)** will be **eligible for evaluation & OD certificates**.
+- 📁 **README File (Highly Recommended)** 📑 – Your repo should include the following for our ease of evaluation:
    - Event Name 🏆
    - Team Name 👨‍💻👩‍💻
    - Tech Stack Used 🛠️
    - Setup Instructions (if applicable) ⚙️
    - Features Implemented ✨
 
-⏳ **Submission Deadline:** **6:00 PM sharp** – No late entries or requests will be entertained!!! 🕕
+- ⏳ **Submission Deadline:** **6:00 PM sharp** – No late entries or requests will be entertained!!! 🕕
 
 ---
 
@@ -75,9 +75,14 @@ Your project will be evaluated based on the following criteria, ensuring fairnes
 
 ## 📢 Stay Connected!
 🌐 **Website:** [IETE Amrita Club](https://avvsf.ietecbe.org/)
+
 📸 **Instagram:** [@iete_amrita](https://www.instagram.com/iete_amrita/)
+
 💻 **GitHub:** [IETE Amrita Chapter](https://github.com/IETEAmritaChapter)
 
 🚀 **Let’s Build Something Amazing!** 💡
+
 Happy Coding & Good Luck! 🍀🔥
 
+
+IETE AMRITA WEB DEV TEAM ❤️
